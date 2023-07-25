@@ -37,3 +37,17 @@ module 11 challenge
 
 * THEN I am presented with empty fields to enter a new note title and the note's text in the right-hand column
 
+## Resources
+
+* W3schools.org
+
+* Code Academy
+
+* YouTube videos for coding help
+
+* GitHub 
+
+* Stackoverflow to answer questions on coding
+
+* two hours of tutor session
+
