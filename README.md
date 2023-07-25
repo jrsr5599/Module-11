@@ -51,3 +51,6 @@ module 11 challenge
 
 * two hours of tutor session
 
+![Picture of the website.](module-11.png)
+
+
